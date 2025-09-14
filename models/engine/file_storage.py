@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""File-based storage engine for AirBnB clone objects.
+
+Serializes model instances to JSON and deserializes them back on reload.
+"""
 
 import json
 from os.path import exists
