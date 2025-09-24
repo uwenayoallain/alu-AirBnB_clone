@@ -1,0 +1,14 @@
+footer {
+  background: #00AA00; /* darker green for contrast with white text */
+  color: #FFFFFF;
+  width: 100%;
+  height: 60px;
+  border-top: 1px solid #CCCCCC;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
